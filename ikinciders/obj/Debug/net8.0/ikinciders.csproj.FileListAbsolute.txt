@@ -1,0 +1,14 @@
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\bin\Debug\net8.0\ikinciders.exe
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\bin\Debug\net8.0\ikinciders.deps.json
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\bin\Debug\net8.0\ikinciders.runtimeconfig.json
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\bin\Debug\net8.0\ikinciders.dll
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\bin\Debug\net8.0\ikinciders.pdb
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.AssemblyInfoInputs.cache
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.AssemblyInfo.cs
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.csproj.CoreCompileInputs.cache
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.dll
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\refint\ikinciders.dll
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.pdb
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ikinciders.genruntimeconfig.cache
+C:\Users\OnOff-21072023\source\repos\TEST\ikinciders\ikinciders\obj\Debug\net8.0\ref\ikinciders.dll
